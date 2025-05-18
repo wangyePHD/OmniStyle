@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <sup>1</sup>School of Artificial Intelligence, Jilin University &nbsp;&nbsp;
-  <sup>2</sup>School of Intelligence Science and Technology, Nanjing University &nbsp;&nbsp;
-  <sup>3</sup>ByteDance<br>
-  <sup>4</sup>Adobe &nbsp;&nbsp;
+  <sup>1</sup>School of Artificial Intelligence, Jilin University &nbsp;&nbsp; <br>
+  <sup>2</sup>School of Intelligence Science and Technology, Nanjing University &nbsp;&nbsp; <br>
+  <sup>3</sup>ByteDance 
+  <sup>4</sup>Adobe &nbsp;&nbsp; <br>
   <sup>5</sup>Engineering Research Center of Knowledge-Driven Human-Machine Intelligence, MOE, China<br>
   <sup>*</sup>Corresponding authors
 </p>
@@ -29,8 +29,9 @@
 
 ---
 
-**OmniStyle** is the first end-to-end style transfer framework based on the Diffusion Transformer (DiT) architecture, achieving high-quality 1K-resolution stylization by leveraging the large-scale, filtered OmniStyle-1M dataset. It supports both instruction- and image-guided stylization, enabling efficient and versatile style transfer across diverse styles. 
+🤖 **OmniStyle** is the first end-to-end style transfer framework based on the Diffusion Transformer (DiT) architecture, achieving high-quality 1K-resolution stylization by leveraging the large-scale, filtered OmniStyle-1M dataset. It supports both instruction- and image-guided stylization, enabling efficient and versatile style transfer across diverse styles. 
 
-**OmniStyle-1M** is the first million-scale paired style transfer dataset, comprising over one million triplets of content, style, and stylized images across 1,000 diverse style categories. It provides strong supervision for learning controllable and generalizable style transfer models. 
+🗂️ **OmniStyle-1M** is the first million-scale paired style transfer dataset, comprising over one million triplets of content, style, and stylized images across 1,000 diverse style categories. It provides strong supervision for learning controllable and generalizable style transfer models. 
 
-**OmniStyle-150K** is a high-quality subset of OmniStyle-1M, specifically filtered to train the OmniStyle model.
+🧪 **OmniStyle-150K** is a high-quality subset of OmniStyle-1M, specifically filtered to train the OmniStyle model.
+
