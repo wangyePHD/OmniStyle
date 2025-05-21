@@ -20,18 +20,42 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-OmniStyle-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Paper-arXiv-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Dataset-Open-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/HuggingFace-Model-yellow?style=flat-square"/>
-  <img src="https://img.shields.io/github/stars/your_org/omnistyle?style=social"/>
+  <a href="https://wangyephd.github.io/projects/cvpr25_omnistyle.html">
+    <img src="https://img.shields.io/badge/Project-OmniStyle-blue?style=flat-square"/>
+  </a>
+  <a href="https://arxiv.org/pdf/2505.14028">
+    <img src="https://img.shields.io/badge/Paper-arXiv-green?style=flat-square"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Dataset-Open-orange?style=flat-square"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/HuggingFace-Model-yellow?style=flat-square"/>
+  </a>
 </p>
 
 ---
 
-🤖 **OmniStyle** is the first end-to-end style transfer framework based on the Diffusion Transformer (DiT) architecture, achieving high-quality 1K-resolution stylization by leveraging the large-scale, filtered OmniStyle-1M dataset. It supports both instruction- and image-guided stylization, enabling efficient and versatile style transfer across diverse styles. 
+🤖 <strong>OmniStyle</strong> is the first end-to-end style transfer framework based on the Diffusion Transformer (DiT) architecture, achieving high-quality 1K-resolution stylization by leveraging the large-scale, filtered OmniStyle-1M dataset. It supports both instruction- and image-guided stylization, enabling efficient and versatile style transfer across diverse styles.
 
-🗂️ **OmniStyle-1M** is the first million-scale paired style transfer dataset, comprising over one million triplets of content, style, and stylized images across 1,000 diverse style categories. It provides strong supervision for learning controllable and generalizable style transfer models. 
+🗂️ <strong>OmniStyle-1M</strong> is the first million-scale paired style transfer dataset, comprising over one million triplets of content, style, and stylized images across 1,000 diverse style categories. It provides strong supervision for learning controllable and generalizable style transfer models.
 
-🧪 **OmniStyle-150K** is a high-quality subset of OmniStyle-1M, specifically filtered to train the OmniStyle model.
+🧪 <strong>OmniStyle-150K</strong> is a high-quality subset of OmniStyle-1M, specifically filtered to train the OmniStyle model.
+
+
+---
+<h2>🛠️ TODO List</h2>
+<ul>
+  <li>🔜 Release <strong>OmniStyle-1M</strong>: The full-scale paired dataset (1M triplets).</li>
+  <li>🔜 Release <strong>OmniStyle-150K</strong>: The filtered high-quality subset used for training (100K triplets).</li>
+  <li>🔜 Release <strong>OmniStyle-76K</strong>: A further-refined dataset with 76K high-quality triplets (76K triplets).</li>
+  <li>🔜 Release <strong>Model weights</strong> and inference code for OmniStyle.</li>
+  <li>🔜 Release <strong>Training code</strong> for end-to-end style transfer with DiT.</li>
+</ul>
+
+**All datasets, model weights, and code are currently being finalized. We are committed to open-sourcing all the above components in the near future to support open research and reproducibility.  We sincerely appreciate your patience and continued interest in <strong>OmniStyle</strong>.**
+
+
+
+
 
