@@ -46,14 +46,9 @@
 ---
 <h2>🛠️ TODO List</h2>
 <ul>
-  <li>🔜 Release <strong>OmniStyle-1M</strong>: The full-scale paired dataset (1M triplets).</li>
-  <li>🔜 Release <strong>OmniStyle-150K</strong>: The filtered high-quality subset used for training (100K triplets).</li>
-  <li>🔜 Release <strong>OmniStyle-76K</strong>: A further-refined dataset with 76K high-quality triplets (76K triplets).</li>
+  <li>🔜 Release <strong>OmniStyle-150K</strong>: The filtered high-quality subset used for training (150K triplets).</li>
   <li>🔜 Release <strong>Model weights</strong> and inference code for OmniStyle.</li>
-  <li>🔜 Release <strong>Training code</strong> for end-to-end style transfer with DiT.</li>
 </ul>
-
-**All datasets, model weights, and code are currently being finalized. We are committed to open-sourcing all the above components in the near future to support open research and reproducibility.  We sincerely appreciate your patience and continued interest in <strong>OmniStyle</strong>.**
 
 
 
