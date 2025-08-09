@@ -34,6 +34,7 @@
   </a>
 </p>
 
+**This repository is no longer maintained. All code, model weights, and other related information have been moved to [StyleX-Research repository](https://github.com/StyleX-Research/OmniStyle).**
 ---
 
 🤖 <strong>OmniStyle</strong> is the first end-to-end style transfer framework based on the Diffusion Transformer (DiT) architecture, achieving high-quality 1K-resolution stylization by leveraging the large-scale, filtered OmniStyle-1M dataset. It supports both instruction- and image-guided stylization, enabling efficient and versatile style transfer across diverse styles.
